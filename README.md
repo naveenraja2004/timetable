@@ -145,3 +145,4 @@ Execute the program
 </html>
 ```
 # OUPUT
+![slot](https://user-images.githubusercontent.com/118707204/214922231-a62c5416-015e-4e36-b57b-561e64533ad7.png)
